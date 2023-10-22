@@ -1,0 +1,32 @@
+div{
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    height: 100px;
+    padding: 20px;
+}
+
+.tipo1 {
+    
+    background-color: blue;
+    height: 100px;
+    height: 100px;
+    
+}
+
+.tipo2 {
+    background-color: yellow;
+    height: 100px;
+    height: 100px;
+}
+.tipo3{
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    height: 60px;
+    margin-left: 400px;
+    width: 590px;
+
+}    
